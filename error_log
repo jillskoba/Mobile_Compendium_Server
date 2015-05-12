@@ -1,0 +1,38 @@
+[06-Apr-2015 14:55:20 America/New_York] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'jillvzpf_compend'@'localhost' to database 'compendium' in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 13
+[13-Apr-2015 12:54:15 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 13
+[13-Apr-2015 13:16:37 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[13-Apr-2015 13:16:37 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 167
+[13-Apr-2015 13:55:21 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[13-Apr-2015 13:55:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 167
+[13-Apr-2015 14:07:20 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[13-Apr-2015 14:07:20 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 167
+[13-Apr-2015 14:08:30 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[13-Apr-2015 14:08:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 167
+[13-Apr-2015 14:08:59 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[13-Apr-2015 14:08:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 167
+[13-Apr-2015 14:13:08 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[13-Apr-2015 14:13:08 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 167
+[14-Apr-2015 14:47:10 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[14-Apr-2015 14:47:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 167
+[14-Apr-2015 15:31:08 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[14-Apr-2015 15:31:08 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 167
+[19-Apr-2015 19:45:38 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[19-Apr-2015 19:45:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
+[20-Apr-2015 18:40:04 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[20-Apr-2015 18:40:04 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
+[20-Apr-2015 21:43:38 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[20-Apr-2015 21:43:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
+[21-Apr-2015 20:45:23 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[21-Apr-2015 20:45:23 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
+[21-Apr-2015 20:51:13 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[21-Apr-2015 20:51:13 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
+[22-Apr-2015 11:20:34 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[22-Apr-2015 11:20:34 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
+[22-Apr-2015 15:37:14 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[22-Apr-2015 15:37:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
+[23-Apr-2015 17:44:08 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[23-Apr-2015 17:44:08 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
+[23-Apr-2015 18:32:46 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[23-Apr-2015 18:32:46 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
+[23-Apr-2015 18:41:17 America/New_York] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 165
+[23-Apr-2015 18:41:17 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/jillvzpf/public_html/compendium/classes/database.class.php on line 166
